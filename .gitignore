@@ -1,0 +1,12 @@
+# C++
+.vscode/
+*.exe
+
+# Java
+.settings/
+.classpath
+.project
+target/
+
+# Python
+__pycache__/

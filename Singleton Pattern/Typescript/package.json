@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Singleton design pattern implementation in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node index.js"
+  },
+  "keywords": [],
+  "author": "S.Kishore",
+  "license": "ISC"
+}
